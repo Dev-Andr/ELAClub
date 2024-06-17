@@ -1,6 +1,6 @@
 public class Selection {
     public static void main(String[] args) {
-        int nums[] = { 5, 1, 4, 2, 6};
+        int nums[] = { 5, 1, 4, 2, 6, 5, 10, 2, 121};
         int size = nums.length, mI = -1;
 
         for (int i = 0; i<size-1; i++){
