@@ -1,4 +1,4 @@
-public class Insertion {
+public class Insertion{
     public static void main(String[] args) {
         int nums[] = { 1, 4, 6, 2 };
         int size = nums.length;
