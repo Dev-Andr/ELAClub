@@ -16,7 +16,6 @@ public class Selection {
         }
 
 
-
         System.out.println("after sorting");
         for (int num : nums) {
             System.out.print(num + " ");
