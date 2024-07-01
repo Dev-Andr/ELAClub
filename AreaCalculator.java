@@ -10,7 +10,7 @@ class Circle {
     }
 }
 
-class Square{
+class SquareArea{
     double s;
     Square(double s){
         this.s=s;
