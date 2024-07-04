@@ -8,7 +8,6 @@ public class Runner {
         // list.insert(345);
         // list.show();
         // list.headInsert(123);
-        // list.show();
         // list.insertAt(0, 456);
         // list.show();
         // list.deleteAt(0);
