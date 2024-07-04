@@ -12,6 +12,7 @@ public class Runner {
         // list.show();
         // list.deleteAt(0);
         // list.show();
+        // list.show();
 
         // DStack nums = new DStack();
         // nums.push(12);
