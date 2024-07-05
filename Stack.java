@@ -3,7 +3,6 @@ public class Stack {
     int top = -1;
 
     public void push(int data){
-        
         stack[top] = data;
         top++;
     }
