@@ -52,6 +52,7 @@ public class LinkedList {
                 pnode = node;
                 node = node.next;
             }
+            
             pnode.next = node.next;
         }
     }
