@@ -4,7 +4,7 @@ public class LinkedList {
         Node node = new Node();
         node.data = data;
         node.next = null;
-
+        
         if (head==null){
             head = node;
         }else{
@@ -36,6 +36,7 @@ public class LinkedList {
         for(int i=0; i<index-1; i++){
             pnode = pnode.next;
         }
+        
         node.next = pnode.next;
         pnode.next = node;
 
