@@ -1,6 +1,6 @@
 public class test3 extends test2 {
     public void happy(int a) {
-        System.out.println("huihiuihiu");
+        System.out.println("huihiuihiiu");
     }
     
     public static void main(String args[]) {
