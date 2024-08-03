@@ -1,5 +1,5 @@
 public class DStack {
-    // cde
+    // cds
     int capacity = 2;
     int stack[] = new int[capacity];
     int top = 0;
