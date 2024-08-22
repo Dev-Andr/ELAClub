@@ -2,7 +2,7 @@ class Circle {
     double r;
     Circle(double r){
         this.r=r;
-        System.out.println("Area is"+calculateArea());
+        System.out.println("Area is  "+calculateArea());
 
     }
     double calculateArea(){
